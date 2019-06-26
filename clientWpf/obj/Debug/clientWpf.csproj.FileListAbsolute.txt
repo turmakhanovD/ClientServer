@@ -1,0 +1,15 @@
+C:\Users\ТурмаханД\source\repos\client\clientWpf\bin\Debug\clientWpf.exe.config
+C:\Users\ТурмаханД\source\repos\client\clientWpf\bin\Debug\clientWpf.exe
+C:\Users\ТурмаханД\source\repos\client\clientWpf\bin\Debug\clientWpf.pdb
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\App.g.cs
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf_MarkupCompile.cache
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf_MarkupCompile.lref
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\MainWindow.baml
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.g.resources
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.Properties.Resources.resources
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.csproj.GenerateResource.cache
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.exe
+C:\Users\ТурмаханД\source\repos\client\clientWpf\obj\Debug\clientWpf.pdb
